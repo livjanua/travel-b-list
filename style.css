@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 250px;
+  color: #fff;
+  margin-left: 25px;
+}
+
+header p {
+  color: #fff;
+  font-size: 65px;
+  margin-left: 25px;
+}
+.hero {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/172/450/original/pexels-lorenzo-castellino-61076802-32398720.jpg?1755611300);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+}
+
+.language {
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
