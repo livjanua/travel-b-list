@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: "Playfair Display", serif;
 }
 
 h1 {
@@ -9,11 +10,28 @@ h1 {
   margin-left: 25px;
 }
 
+h2 {
+  font-size: 75px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
 header p {
   color: #fff;
   font-size: 65px;
   margin-left: 25px;
 }
+
+main {
+  margin-top: 75px;
+}
+
 .hero {
   background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/172/450/original/pexels-lorenzo-castellino-61076802-32398720.jpg?1755611300);
   background-size: cover;
@@ -24,12 +42,16 @@ header p {
 
 .language {
   display: flex;
-  justify-content: space-between;
+  margin: 20px;
   float: right;
 }
 
 .menu {
   display: flex;
-  justify-content: space-between;
+  margin: 20px;
   float: right;
+}
+
+.culture {
+  margin-top: 45px;
 }
