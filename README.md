@@ -1,2 +1,3 @@
 # travel-b-list
-Travel bucketlist (SheCodes Challenge)
+
+Travel bucketlist (SheCodes Monthly challenge)
