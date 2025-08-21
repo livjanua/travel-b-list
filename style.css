@@ -56,6 +56,14 @@ main {
   float: right;
 }
 
+.culture {
+  margin-bottom: 90px;
+}
+
+.seasanol-wonders {
+  margin-top: 95px;
+}
+
 .custom-accordion-btn {
   font-weight: 500;
   font-size: 1.3rem;
@@ -77,6 +85,10 @@ main {
 }
 
 .everything-japan {
-  margin-top: 25px;
+  margin-top: 95px;
   border-top: 1px solid #ddd;
+}
+
+.everything-japan h2 {
+  margin-bottom: 90px;
 }
