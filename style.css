@@ -55,3 +55,19 @@ main {
 .culture {
   margin-top: 45px;
 }
+
+.custom-accordion-btn {
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #212529;
+  background-color: #fff;
+  box-shadow: none;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 17px;
+}
+
+.custom-accordion-btn:not(.collapsed) {
+  color: #000;
+  background-color: #fff;
+  box-shadow: none;
+}
