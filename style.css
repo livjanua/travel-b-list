@@ -18,8 +18,12 @@ h3 {
   font-size: 50px;
 }
 
-h3 {
+h4 {
   font-size: 35px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
 }
 
 header p {
@@ -58,16 +62,20 @@ main {
 
 .custom-accordion-btn {
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: #212529;
   background-color: #fff;
   box-shadow: none;
   border-bottom: 1px solid #ddd;
-  margin-bottom: 17px;
+  margin-bottom: 13px;
 }
 
 .custom-accordion-btn:not(.collapsed) {
   color: #000;
   background-color: #fff;
   box-shadow: none;
+}
+
+.accordion-body {
+  font-family: "Open Sans", sans-serif;
 }
