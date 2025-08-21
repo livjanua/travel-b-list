@@ -56,10 +56,6 @@ main {
   float: right;
 }
 
-.culture {
-  margin-top: 45px;
-}
-
 .custom-accordion-btn {
   font-weight: 500;
   font-size: 1.3rem;
@@ -78,4 +74,9 @@ main {
 
 .accordion-body {
   font-family: "Open Sans", sans-serif;
+}
+
+.everything-japan {
+  margin-top: 25px;
+  border-top: 1px solid #ddd;
 }
