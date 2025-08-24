@@ -15,7 +15,8 @@ h2 {
 }
 
 h3 {
-  font-size: 50px;
+  font-size: 57px;
+  margin-bottom: 15px;
 }
 
 h4 {
@@ -93,4 +94,18 @@ main {
 .everything-japan h2 {
   margin-bottom: 90px;
   margin-top: 40px;
+}
+
+.cuisine-heading {
+  margin-bottom: 25px;
+}
+
+.cuisine-details {
+  margin-bottom: 13px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.cuisine-type {
+  margin-top: 7px;
+  font-family: "Open Sans", sans-serif;
 }
