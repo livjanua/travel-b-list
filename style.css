@@ -49,9 +49,11 @@ main {
   display: flex;
   margin: 20px;
   float: right;
+  color: #fff;
 }
 
 .menu {
+  color: #fff;
   display: flex;
   margin: 20px;
   float: right;
