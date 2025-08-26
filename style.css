@@ -37,6 +37,10 @@ main {
   margin-top: 75px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hero {
   background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/172/450/original/pexels-lorenzo-castellino-61076802-32398720.jpg?1755611300);
   background-size: cover;
@@ -118,7 +122,8 @@ main {
 }
 
 footer {
-  margin-bottom: 55px;
+  margin-bottom: 25px;
+  border-bottom: #ddd 1px solid;
 }
 
 footer h2 {
@@ -127,8 +132,29 @@ footer h2 {
   margin-top: 35px;
 }
 
+footer h4 {
+  margin-top: 57px;
+  padding: 13px;
+}
+
+footer h5 {
+  font-size: 23px;
+  text-decoration: underline;
+}
+
+footer h5:hover {
+  text-decoration: none;
+  color: #0d6997;
+}
+
 footer button {
   margin-top: 95px;
+}
+
+footer ul li {
+  color: #6f7172;
+  font-family: "Open Sans", sans-serif;
+  list-style-type: none;
 }
 
 .japan-trip {
@@ -148,4 +174,11 @@ footer button {
 
 .btn {
   font-family: "Lato", sans-serif;
+}
+
+.website-by {
+  color: #a3a9ac;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 13px;
 }
